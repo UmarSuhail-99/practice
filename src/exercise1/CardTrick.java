@@ -10,6 +10,8 @@ package exercise1;
  */
 
 /// This is to check push
+
+//cheching pull or fetch 
 public class CardTrick {
     
     public static void main(String[] args) {
