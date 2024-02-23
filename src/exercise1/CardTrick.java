@@ -12,6 +12,8 @@ package exercise1;
 /// This is to check push
 
 //cheching pull or fetch 
+
+// I am done 
 public class CardTrick {
     
     public static void main(String[] args) {
