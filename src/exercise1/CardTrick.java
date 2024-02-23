@@ -8,6 +8,8 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
  */
+
+/// This is to check push
 public class CardTrick {
     
     public static void main(String[] args) {
